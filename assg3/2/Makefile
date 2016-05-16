@@ -1,5 +1,7 @@
+all: global local my
+
 global: global.cpp
-		g++ -Wall -o gloal global.cpp
+		g++ -Wall -o global global.cpp
 
 local: local.cpp
 		g++ -Wall -o local local.cpp

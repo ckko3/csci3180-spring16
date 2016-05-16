@@ -1,2 +1,7 @@
 *.DS_Store
+*.o
 report*
+has
+global
+local
+my
