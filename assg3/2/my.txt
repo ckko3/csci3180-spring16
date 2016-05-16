@@ -1,0 +1,39 @@
+		### Welcome to the CU Bank ###
+
+** Welcome Alice **
+[Your credit card balance: HKD 2000]
+
+... Repaying debts ...
+Thank you, Alice! You have just repayed [HKD 1000]!
+Now your remaining credit limit is [HKD 4000].
+[Current card balance: HKD 1000]
+
+... Consumption payment (Luk Card) ...
+You have just payed a [HKD 3000] consumption!
+Now your remaining credit limit is [HKD 1000].
+[Current card balance: HKD 4000]
+
+** Welcome Bob **
+[Your credit card balance: HKD 5000]
+Dear Premier client Bob, you have a credit limit of [HKD 10000]! Enjoy!
+
+... Repaying debts ...
+Thank you, Bob! You have just repayed [HKD 2000]!
+Now your remaining credit limit is [HKD 2000].
+[Current card balance: HKD 3000]
+
+... Consumption payment (Luk Card) ...
+You have exceeded your credit limit!
+ERROR! You are trying to pay beyond your credit limit!
+
+** Welcome Carol **
+[Your credit card balance: HKD 5000]
+
+... Repaying debts ...
+Thank you, Carol! You have just repayed [HKD 2000]!
+Now your remaining credit limit is [HKD 2000].
+[Current card balance: HKD 3000]
+
+... Consumption payment (Luk Card) ...
+You have exceeded your credit limit!
+ERROR! You are trying to pay beyond your credit limit!
